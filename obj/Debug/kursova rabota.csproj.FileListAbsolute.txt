@@ -1,0 +1,10 @@
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\bin\Debug\kursova rabota.exe.config
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\bin\Debug\kursova rabota.exe
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\bin\Debug\kursova rabota.pdb
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova rabota.csproj.AssemblyReference.cache
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova_rabota.Form1.resources
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova_rabota.Properties.Resources.resources
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova rabota.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova rabota.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova rabota.exe
+C:\Users\Viktor\Desktop\сда упрж\kursova rabota\kursova rabota\obj\Debug\kursova rabota.pdb
